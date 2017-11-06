@@ -1,0 +1,47 @@
+header{
+	background-color: grey;
+	height: 80px;
+	width:100%;
+	top: 0;
+	right: 0;
+	left:0;
+	position: absolute;
+}
+
+#header-tag{
+	width: 80px;
+	float: left;
+	position: relative;	
+/*	padding-top: 12px;
+*/	font-family: 'Raleway', sans-serif;
+}
+
+.head-items{
+	text-align: center;
+	float: right;
+	position: relative;
+	padding-top: 14px;
+}
+
+li{
+	float: right;
+	display: inline-table;
+	text-align: center;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+#section-1{
+	position: absolutex;
+	margin-top: 100px;
+}
+
+    .parallax-container {
+      height: 300px;
+    }
+
+/*font-family: 'Roboto', sans-serif;
+font-family: 'Rozha One', serif;
+font-family: 'Slabo 27px', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto Slab', serif;*/
