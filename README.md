@@ -1,2 +1,3 @@
-# My-Portfolio
-My New Portfolio
+# My Portfolio
+
+Portfolio website for Edric Wong.
