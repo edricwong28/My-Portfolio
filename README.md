@@ -1,3 +1,3 @@
 # My Portfolio
 
-Portfolio website for Edric Wong.
+Portfolio website for Edric Wong. Utilizes Materialize CSS Library.
